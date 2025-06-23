@@ -29,8 +29,13 @@ Subtle hover and transition effects on cards and buttons
 
 # What I Found Challenging / Learned
 ->Learned to persist dummy authentication using localStorage and manage state across signup and login.
+
 ->Gained experience adapting to Tailwind CSS v4’s new dark mode configuration.
+
 ->Understood how to protect routes in React using <Navigate /> and custom guards.
+
 ->Improved responsive design skills with Tailwind utility classes.
+
 ->Enhanced user experience by handling loading and error states for API calls.
+
 ->Deepened knowledge of React Context and hooks for state and theme management.
