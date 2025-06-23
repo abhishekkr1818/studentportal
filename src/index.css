@@ -1,0 +1,3 @@
+@import "tailwindcss";
+/* Remove old @tailwind directives */
+@custom-variant dark (&:where(.dark, .dark *));
